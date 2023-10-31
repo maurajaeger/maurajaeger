@@ -1,7 +1,5 @@
 ## Maura Jaeger
-### Graduate Student, MS Biostatistics
-### Dornsife School of Public Health
-### Drexel University
+### Graduate Student, MS Biostatistics, Dornsife School of Public Health, Drexel University
 
 <!--
 **maurajaeger/maurajaeger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
