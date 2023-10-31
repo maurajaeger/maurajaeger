@@ -1,5 +1,5 @@
-### Maura Jaeger
-### Graduate student, MS Biostatistics
+## Maura Jaeger
+### Graduate Student, MS Biostatistics
 ### Dornsife School of Public Health
 ### Drexel University
 
